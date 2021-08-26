@@ -1,2 +1,2 @@
-Real Time User Information Updatable Web Applicatiin
+Real Time User Information Updatable Web Application
 
